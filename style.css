@@ -1,0 +1,41 @@
+body {
+    width: 400px;
+}
+
+a {
+    display: inline-block;
+}
+
+.container {
+    width: 100%;
+}
+
+    input[name="decode"] {
+        width: 65%;
+        padding: 0 5px;
+        height: 25px;
+        display: inline-block;
+    }
+
+    button {
+        width: 22%;
+        margin-left: 10px;
+        display: inline-block;
+    }
+
+    .results {
+        width: 100%;
+    }
+
+        .results li {
+            padding-bottom: 8px;
+            list-style-type: none;
+        }
+
+        .results li.bad {
+            color: red;
+        }
+
+        .results li.good {
+            color: green;
+        }

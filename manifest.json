@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "JWT Decoder",
+  "description": "Copy a JSON Web Token, see what it contains",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "key.jpg",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+  ]
+}
