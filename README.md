@@ -1,3 +1,3 @@
-# URL Saver
-Just a simple Chrome extension to save a list of URLs from a domain
-and make them available as a downloadable list.
+# JWT Chrome Extension
+
+View claims of a JSON Web Token by pasting a token into a box
